@@ -1,6 +1,6 @@
-# Unofficial Bug Tracker for Pokémon Go
+# Unofficial Bug Tracker for Pokémon GO
 
-This is a curated, unofficial resource for Pokémon Go related bugs and issues, their status and any known workarounds.
+This is a curated, unofficial resource for Pokémon GO related bugs and issues, their status and any known workarounds.
 
 This is not a place to report bugs. **Please use the [official channels](https://support.pokemongo.nianticlabs.com/hc/en-us/articles/222061187-Report-a-bug) for reporting bugs and issues.**
 
